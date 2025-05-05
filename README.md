@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL ](https://github.com/Noma7code/blog-preview-card-main.git)
-- Live Site URL: [live site UR](https://your-live-site-url.com)
+- Live Site URL: [live site UR](https://blog-preview-card-main-ten-jet.vercel.app/)
 
 ## My process
 
